@@ -1,0 +1,30 @@
+
+
+body{
+  background-image: url('https://img.freepik.com/free-photo/design-space-paper-textured-background_53876-42312.jpg?size=626&ext=jpg&ga=GA1.1.2010178882.1642204800');
+    background-repeat: no-repeat;
+background-size: cover;
+  color: black;
+  font-family: verdana;
+  margin:15% 10%
+}
+.exp-header{
+  font-family: verdana;
+  text-align:center;
+  text-transform:uppercase;
+  border-left:5px double black;
+  border-right:5px double black;
+  border-top: 5px double black;
+  border-bottom:5px double black;
+  background-color: rgb(0,0,0,0.255)
+}
+.edu{
+  font-family: verdana;
+  text-align:center;
+  text-transform:uppercase;
+  border-left:5px double black;
+  border-right:5px double black;
+  border-top: 5px double black;
+  border-bottom:5px double black;
+  background-color: rgb(0,0,0,0.255)
+}
